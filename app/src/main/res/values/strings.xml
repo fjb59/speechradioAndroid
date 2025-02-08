@@ -6,6 +6,8 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
+    <string name="no_Blutooth">Blutooth Not supported</string>
+    <string name="Bluetooth_Off">Bluetooth is turned off.</string>
 
     <string name="Welcome">
        Welcome to Speech Radio. Stay a while.
